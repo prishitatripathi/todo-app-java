@@ -1,0 +1,8 @@
+
+#### **.gitignore**
+```bash
+# Ignore compiled Java files
+*.class
+
+# Ignore package files
+*.jar
